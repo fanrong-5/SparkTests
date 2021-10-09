@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="spark-sql_2.12-3.0.0">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../BigData/spark-3.0.0-bin-hadoop2.7/jars/spark-sql_2.12-3.0.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
